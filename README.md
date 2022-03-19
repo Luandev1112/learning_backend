@@ -13,12 +13,12 @@ This project contains the backend for Learn With Socrates
 
     - Using HTTPS
     ```sh
-    git clone https://github.com/WithSocrates/learning_backend.git
+    git clone https://github.com/Dmitrii923/learning_backend.git
     ```
 
     - Using SSH
     ```sh
-    git clone git@github.com:WithSocrates/learning_backend.git
+    git clone git@github.com:Dmitrii923/learning_backend.git
     ```
 
 2. Change directory into `learning_backend`:
