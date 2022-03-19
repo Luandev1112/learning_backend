@@ -1,0 +1,32 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+Django = "*"
+django-reversion = "*"
+django-polymorphic = "*"
+easy-thumbnails = "*"
+django-allauth = "*"
+django-parler = "*"
+django-mptt = "*"
+django-import-export = "*"
+django-extensions = "*"
+django-ckeditor = "*"
+django-cors-headers = "*"
+coreapi = "*"
+django-mailer = "*"
+graphene-django = "*"
+django-graphql-jwt = "*"
+PyJWT = "*"
+sendgrid = "*"
+celery = "*"
+django-import-export-celery = "*"
+gunicorn = "*"
+psycopg2-binary = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
